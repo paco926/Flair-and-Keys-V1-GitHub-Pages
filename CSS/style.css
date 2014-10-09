@@ -1,5 +1,4 @@
 body {
-background-color: "yellow";
 font-family: "Open Sans";
 }
 
@@ -26,7 +25,7 @@ margin-bottom: 1em;
 
 #footer{
 	background-color: black; 
-	color: #AAAAAA;
+	color: #E3F8FF;
 	font-size: 24px;
 	text-align: center;
 	padding-top: 3em;
@@ -34,7 +33,7 @@ margin-bottom: 1em;
 }
 
 #footer a{
-	color: #aaaaaa;
+	color: #E3F8FF;
 }
 
 #footer a:hover{
@@ -62,6 +61,7 @@ font-size: 16px;
 
 #concepttitle {
 	margin-bottom: 2em;
+	font-size: 24px;
 }
 
 
@@ -78,8 +78,9 @@ font-size: 16px;
   
 .navbar-transparent .navbar-brand,
 .navbar-transparent .navbar-nav > li > a {
-  color: #eeeeee;
+  color: #E3F8FF;
   line-height: 20px;
+  font-size: 18px;
 }
   
 .navbar-transparent .navbar-nav > li > a:hover,
@@ -108,3 +109,6 @@ background-color: #E3F8FF;
 }
 
 
+#formulaire{
+padding-top: 3em;
+}
