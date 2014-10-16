@@ -7,10 +7,10 @@ font-family: "Open Sans";
 background-image: url(../Images/paris-415476.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-height: 550px;
+height: 620px;
 text-align: center;
 padding-top: 4em;
-margin-bottom: 3em;
+
 }
 
 #wrapper h1{
@@ -22,6 +22,9 @@ font-size: 24px;
 margin-bottom: 1em;
 }
 
+.change-bouton{
+	background-color: #FEAC51 !important;
+}
 
 #footer{
 	background-color: black; 
@@ -47,15 +50,15 @@ background-color: #E3F8FF;
 color: black;
 font-size: 24px;
 text-align: center;
-padding-top: 3em;
-padding-bottom: 5em;
+padding-top: 4em;
+padding-bottom: 4em;
 }
 
 
 #concept{
 padding-top: 4em;
 padding-bottom: 4em;
-font-size: 16px;
+font-size: 24px;
 }
 
 
@@ -102,12 +105,23 @@ font-size: 16px;
 #pitch {
 padding-left: 3em;
 padding-right: 3em;
-padding-top: 2em;
-padding-bottom: 2em;
-font-size: 16px;
+padding-top: 3em;
+padding-bottom: 3em;
+font-size: 24px;
 background-color: #E3F8FF;
 }
 
+#pitch p {
+margin-bottom: 4em;
+}
+
+#beta {
+padding-left: 3em;
+padding-right: 3em;
+padding-top: 3em;
+padding-bottom: 3em;
+font-size: 24px;
+}
 
 #formulaire{
 padding-top: 3em;
